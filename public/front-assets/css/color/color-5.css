@@ -1,0 +1,192 @@
+/*-----------------------------------------------------------------------
+/*  Theme Name  : Shree - Travel and Tourism Agency Responsive HTML5 Template
+/*  Theme URI   : http://www.spheretheme.com/shree
+/*  Description : Shree - is a responsive HTML template is Modern, Clean, Professional and Multi-Purpose HTML5 site template, Perfect for all services related to tourism such as hotels, vacation, resorts, package tours, events, honeymoon, travel agency, tour operator, travel blog, adventure shops, travel directory, hotels directory, retreats and much more...
+/*  Version     : 1.2
+/*  assets/css/colors/color-5.css  
+/* This file is used #2196F3 for Primary Color, Dark shade #0069c0 and lite shade #6ec6ff
+/*-----------------------------------------------------------------------
+*/
+
+.btn-theme,
+.btn-theme-alt:hover,
+.btn-white-alt-theme:hover{
+    background: #2196F3;
+    border-color: #2196F3;
+}
+.navbar-light .navbar-toggler,
+.btn-theme-alt,
+.our-team .team-member a,
+.pagination > li > a, 
+.pagination > li > span{
+    border-color: #2196F3;
+    color: #2196F3;
+}
+.btn-link,
+.btn-link:hover{
+    color: #2196F3;
+}
+.nav-container .navbar-brand,
+.nav-container .navbar-brand:hover,
+.navbar-light .navbar-nav .nav-link:focus, 
+.navbar-light .navbar-nav .nav-link:hover,
+.transparent-menu .navbar-default .navbar-nav .dropdown-menu > li > a:focus,
+.transparent-menu .navbar-default .navbar-nav .dropdown-menu > li > a:hover,
+.nav-container .mega-menu .links h5,
+.nav-container .mega-menu .desc h5,
+.mega-menu .links a:hover,
+.hot-deal-list .item .location,
+.search-section .product-search-title,
+.section-title h4{
+    color: #2196F3;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.search-section .nav-tabs > li > a:hover,
+.search-section .nav-tabs .active:after,
+.search-section .nav-tabs > li > a.active,
+.search-section .nav-tabs > li > a.active:focus,
+.search-section .nav-tabs > li > a.active:hover,
+.hot-deals .nav-tabs .active:after,
+.hot-deals .nav-tabs > li > a.active, 
+.hot-deals .nav-tabs > li > a.active:focus,
+.hot-deals .nav-tabs > li > a.active:hover,
+.hot-deal-grid .wrapper:hover h5,
+.tour-grid:hover .tour-brief,
+.choose-icon,
+.service-right i,
+.main-footer .social-media li a{
+    background: #2196F3;
+}
+.sidebar-popular-post .date,
+.post-title p,
+.main-footer h4,
+.main-footer .links ul li a:hover,
+.main-footer .contact-box p i,
+.main-footer .links ul li a:hover,
+.main-footer-nav ul li a:hover,
+.ui-spinner-button:hover i,
+.process-box h5,
+.our-team .team-member h5,
+.hotel-box-view .hotel-box-view-body h5{
+    color: #2196F3;
+}
+.our-team .team-member a:hover,
+.hotel-box-view .hotel-box-view-body .offer,
+.bottom-top,
+.process-step i,
+.process-step .step::before,
+.process-step .step::after,
+.filter-head,
+.filter-head h5:after,
+.price-filter .ui-slider .ui-slider-handle:before,
+.name-filter .input-group-text,
+.offer-ribbon span{
+    background: #2196F3;
+}
+.pagination > li > a:hover, 
+.pagination > .page-item.active > a, 
+.pagination > .page-item.active > a:focus,
+.pagination > .page-item.active > a:hover, 
+.pagination > .page-item.active > span, 
+.pagination > .page-item.active > span:focus,
+.pagination > .page-item.active > span:hover,
+.sidebar-item .input-group-text{
+    background: #2196F3;
+    border-color: #2196F3;
+}
+.offer-ribbon span:before{
+    border-left-color: #2196F3;
+    border-top-color: #2196F3;
+}
+.offer-ribbon span::after{
+    border-right-color: #2196F3;
+    border-top-color:#2196F3;
+}
+.filter-area h6,
+.price-filter .price-value,
+.room-grid-view .room-info .room-title p,
+.room-grid-view .hotel-rating span.score,
+.hotel-tab-detail .room-details h6,
+.hotel-tab-detail .review-header h3,
+.hotel-tab-detail .review-header .guest-review .media-body h5,
+.sidebar-item h5 i,
+.sidebar-item ul li span,
+.sidebar-review p span,
+.booking-tab .nav-tabs > li > a.active, 
+.booking-tab .nav-tabs > li > a:focus, 
+.booking-tab .nav-tabs > li > a:hover,
+.booking-detail .payment-seperator:after,
+.theme-tab .nav.tab-style2 > li > a:hover,
+.theme-tab .tab-style2 .active,
+ul.timeline .timeline-title,
+.single-post-wrapper .tag i,
+.single-post-wrapper .tag a:hover,
+.single-post-wrapper .social-share a:hover,
+.comment-box .comments-list .media-body h5,
+.sidebar-item .link-list li a:hover,
+.sidebar-popular-post h6 a:hover,
+.error-content h2{
+    color: #2196F3;
+}
+.address-section,
+.theme-tab .tab-style1 > li > a,
+.theme-tab .tab-style1 .active,
+.theme-tab .tab-style1 .active:after,
+.theme-tab .nav.tab-style1 > li > a:hover,
+.theme-tab .nav.tab-style1 > li > a:focus,
+.theme-tab .tab-style2 .active:after{
+    background: #2196F3;
+}
+.service-right .service,
+ul.timeline > li:before,
+.single-post-wrapper .main-content blockquote{
+    border-color: #2196F3;
+}
+
+.item-listing .list-items .item-amenities li:hover i{
+    border-color: #2196F3;
+}
+.photo-box:hover h4 a,
+.color-theme,
+.trip-box .trip-price,
+.item-listing .list-items .item-amenities li:hover i, 
+.item-listing .list-items .item-amenities li:hover span,
+.item-listing .list-items .item-info .date .fa,
+.item-listing .list-items .price span{
+     color: #2196F3;
+}
+
+
+/*Dark Color*/
+.btn-theme:hover{
+    background: #0069c0;
+    border-color: #0069c0;
+}
+.transparent-menu-top,
+.main-footer .social-media li a:hover{
+    background: #0069c0;
+}
+
+/*Light Color*/
+.features-tours-full-width .title span,
+.features-tours-full-width .info-price span, 
+.features-tours-full-width .info-temp span{
+    color: #6ec6ff;
+}
+.hot-deals .nav-tabs > li > a{
+    background: #6ec6ff;
+}
+
+/*White Color*/
+.navbar-contact a{
+    color: rgba(255,255,255,0.9);
+}
+.navbar-contact a:hover{
+    color: rgba(255,255,255,1);
+}
+
+
+/*.features-tours-full-width .features-media:before{
+    background: rgba(0, 0, 0, 0.6);
+}*/
